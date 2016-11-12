@@ -4,7 +4,10 @@
 	"readme": "NativeScript Application",
 	"repository": "<fill-your-repository-here>",
 	"nativescript": {
-		"id": "org.nativescript.LFG"
+		"id": "org.nativescript.LFG",
+		"tns-ios": {
+			"version": "2.3.0"
+		}
 	},
 	"dependencies": {
 		"nativescript-theme-core": "^0.1.3",
