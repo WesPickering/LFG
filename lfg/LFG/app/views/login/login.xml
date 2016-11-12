@@ -3,8 +3,8 @@
   <TextField hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
   <TextField hint="Password" secure="true" />
 
-  <Button text="Sign in" class="link"/>
-  <Button text="Sign up for LFG" />
+  <Button text="Sign in" tap="signIn"/>
+  <Button text="Sign up for LFG" class="link" tap="register"/>
 
   </StackLayout>
 </Page>
