@@ -1,8 +1,14 @@
 {
+	"name": "LFG",
+	"version": "1.0.0",
 	"description": "NativeScript Application",
 	"license": "SEE LICENSE IN <your-license-filename>",
 	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WesPickering/LFG/upload/master"
+		},
+		"authors": "Linda Doong, Wesley Pickering, Neil Toledo, Josh Zeitsoff",
 	"nativescript": {
 		"id": "org.nativescript.LFG",
 		"tns-ios": {
